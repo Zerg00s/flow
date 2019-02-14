@@ -1,0 +1,1 @@
+INSERT INTO Users ("Name") VALUES ("Denis") 
